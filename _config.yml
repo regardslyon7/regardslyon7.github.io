@@ -1,2 +1,6 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 google_analytics: UA-117276875-1
+title: regardslyon7
+lang: fr-FR
+paginate: 5
+paginate_path: "/page:num/"
